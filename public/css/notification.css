@@ -1,0 +1,31 @@
+.ic-module-perizinan{
+    background-color: #F59708;
+}
+
+.ic-module-penggajian{
+    background-color: #1B93C8;
+}
+
+.ic-module-kasbon{
+    background-color: #9C34EB;
+}
+
+.ic-module-jadwal{
+    background-color: #EB34D2;
+}
+
+.ic-module-kehadiran{
+    background-color: #3E3E80;
+}
+
+.ic-module-personalia{
+    background-color: #82D92B;
+}
+
+.ic-approved-notification{
+    background-color: #4D7F62;
+}
+
+.ic-rejected-notification{
+    background-color: #FF6363;
+}

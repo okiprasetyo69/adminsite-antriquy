@@ -1,0 +1,18 @@
+{
+    "Personalia": true,
+    "Pengaturan": true,
+    "Kehadiran": true,
+    "Dashboard": true,
+    "Penjadwalan": true,
+    "Penggajian": true,
+    "Kasbon": true,
+    "Perizinan": true,
+    "Perusahaan": true,
+    "BPJS": true,
+    "Lembur": true,
+    "AuditTrail": true,
+    "Profile": true,
+    "Calendar": true,
+    "API": true,
+    "WebAdmin": true
+}

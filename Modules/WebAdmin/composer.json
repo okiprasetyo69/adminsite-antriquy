@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/webadmin",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\WebAdmin\\Providers\\WebAdminServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\WebAdmin\\": ""
+        }
+    }
+}

@@ -1,0 +1,169 @@
+/**
+* -- Basic Styles --
+*/
+
+html{
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.container{
+    display: block;
+    width: 99%;
+}
+
+.row{
+    width: 99%;
+}
+
+.col-1{
+    display: inline-block;
+    width: 8%;
+}
+
+.col-2{
+    display: inline-block;
+    width: 16%;
+}
+
+.col-3{
+    display: inline-block;
+    width: 24%;
+}
+
+.col-4{
+    display: inline-block;
+    width: 32%;
+}
+
+.col-5{
+    display: inline-block;
+    width: 40%;
+}
+
+.col-6{
+    display: inline-block;
+    width: 48%
+}
+
+.col-7{
+    display: inline-block;
+    width: 58%;
+}
+
+.col-8{
+    display: inline-block;
+    width: 64%;
+}
+
+.col-9{
+    display: inline-block;
+    width: 72%;
+}
+
+.col-10{
+    display: inline-block;
+    width: 80%;
+}
+
+.col-11{
+    display: inline-block;
+    width: 88%;
+}
+
+.col-12{
+    display: inline-block;
+    width: 96%;
+}
+
+.pull-left{
+    float: left !important;
+}
+
+.pull-center{
+    text-align: center !important;
+}
+
+.pull-right{
+    float: right !important;
+}
+
+/**
+    * -- End of Basic Styles --
+    */
+
+
+/**
+* -- PDF Styles --
+*/
+
+.inner-container{
+    display: inline-block;
+    padding-top: 100px;
+}
+
+.page-break {
+    page-break-after: always;
+}
+       
+
+.paper{
+    height: 60% !important;
+}
+
+.logo{
+    height: 50px;
+    width: auto;
+}
+
+.slip{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-spacing: 0px !important;
+}
+
+.table{
+    width: 100% !important;
+
+    margin-top: 8px;
+}
+
+.table td{
+    font-size: 7pt;
+    padding: 5px;
+}
+
+.border-top{
+    border-top: 1px solid black !important;
+}
+
+.border-bottom{
+    border-bottom: 1px solid black !important;
+}
+
+.border-left{
+    border-left: 1px solid black !important;
+}
+
+.border-right{
+    border-right: 1px solid black !important;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.title{
+    margin: 0px;
+    font-weight: bold;
+}
+
+.header{
+    text-align: center;
+    background-color: grey;
+}
+
+/**
+* -- End of PDF Styles --
+*/
